@@ -1,5 +1,5 @@
 class NonEmptyString < String
   def initialize
-    self << "Non Empty"
+    self << 'Non Empty'
   end
 end

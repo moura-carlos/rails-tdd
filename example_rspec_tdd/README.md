@@ -20,3 +20,7 @@ Within "it" block
   -> instantiates a new Calculator class
   -> Makes use of an instance method "sum" to add up two example numbers (5 and 7)
   -> expects the result returned by the "sum" method to be 12
+
+created new Person class
+created new spec/attributes folder to store the Person's class attribute related tests.
+created new attributes/attributes_spec.rb file to write the Person's class attribute related tests.
